@@ -32,4 +32,4 @@ args=(sys.stdout,)
 class=FileHandler
 level=INFO
 formatter=simpleFormatter
-args=('C:/dpsDeploy/log/edw.log', 'a', 'utf-8')
+args=('D:/dpsDeploy/log/edw.log', 'a', 'utf-8')
